@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Delhi");
+  weather.fetchWeather("New Delhi");
