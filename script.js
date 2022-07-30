@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("New Delhi");
+  weather.fetchWeather("Agra");
