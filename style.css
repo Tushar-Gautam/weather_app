@@ -10,7 +10,8 @@ body {
     font-size: 120%;
     background-repeat: no-repeat;
     background-size: cover; 
-  }
+    background-position:center;  
+}
   
   .card {
     background: #000000d0;
